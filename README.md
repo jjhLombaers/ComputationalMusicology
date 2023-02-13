@@ -5,7 +5,7 @@ My corpus contains around 70 tracks from the Afrobeat genre, and around 80 songs
 ## Natural groups and comparison points
 The natural groups in my corpus will mostly center around the tracks' genre. I expect there to be very little artists with tracks in both genres. I also expect the afrobeat songs to have a longer duration than the songs which belong to the funk genre. Moreover, I expect the distribution of artists over songs to be much more diverse for Funk than Afrobeat. I am mostly interested in determining the similarities and differences between audio features of the two genres.
 
-Typical and atypical tracks:
+## Typical and atypical tracks
 | Song | Description | 
 | ---- | ----------- |
 | [Water No Get Enemy by Fela Kuti](https://open.spotify.com/track/4fGbjbqR2psf6zgwwBPecd?si=1112f233adaa4a32) | Reasons why this is a typical afrobeat song include its use of a large horn- and percussion sections, distinctive approach to rhythm, danceability, the political messaging of the lyrics and lengthy duration |
