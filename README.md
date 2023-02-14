@@ -9,5 +9,5 @@ The natural groups in my corpus will mostly center around the tracks' genre. I e
 | Song | Description | 
 | ---- | ----------- |
 | [Water No Get Enemy by Fela Kuti](https://open.spotify.com/track/4fGbjbqR2psf6zgwwBPecd?si=1112f233adaa4a32) | Reasons why this is a typical afrobeat song include its use of a large horn- and percussion sections, distinctive approach to rhythm, danceability, the political messaging of the lyrics and lengthy duration |
-| [Fantastic Man](https://open.spotify.com/track/6lhyua0TZx9riFHAfliJlc?si=9c65e2361d22416a) | This is a slightly atypical song in that it involves slow "four-on-the-floor" kind of backbeat and does not make use of additional percussion or brass instruments |
+| [Fantastic Man](https://open.spotify.com/track/6lhyua0TZx9riFHAfliJlc?si=9c65e2361d22416a) | This is a slightly atypical afrobeat song in that it involves slow "four-on-the-floor" kind of backbeat and does not make use of additional percussion or brass instruments |
 | [Cold Sweat by James Brown](https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc?si=c9f378bf74514174) | This is a typical funk song in that it is energetic, the drums and bass are tightly locked, a `back beat' is played and the track is under 5 minutes |
