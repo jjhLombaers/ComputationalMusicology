@@ -15,3 +15,5 @@ The natural groups in my corpus will mostly center around the tracks' genre. I e
 ## Assignment week 7
 
 I think this plot is interesting as it shows that spotify generally regards funk music to be more danceable, while afrobeat has a higher energy.
+
+![danceability over energy plot](https://github.com/jjhLombaers/ComputationalMusicology/blob/main/danceability_over_energy_plot.png)
